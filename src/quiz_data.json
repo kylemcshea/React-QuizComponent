@@ -2,15 +2,21 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
-      "answer": "7"
+      "instruction_text": "How many bits in a byte?",
+      "answer_options": ["8", "7", "9", "11"],
+      "answer": "8"
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "Founder of UPS?",
+      "answer_options": ["James Casey", "Jimmy Buffet", "Bill Gates", "Kyle McShea"],
+      "answer": "James Casey"
+    },
+    {
+      "id": 3,
+      "instruction_text": "Does array[array.length] work?",
+      "answer_options": ["Yes", "No", "Only on tuesdays", "Solely in python"],
+      "answer": "No"
     }
   ]
 }
